@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lancesce.github.io/lancesce.txt.gz
+Sitemap: https://lancesce.github.io/app/lancesce.txt.gz
+Sitemap: https://lancesce.github.io/assets/lancesce.txt.gz
+Sitemap: https://lancesce.github.io/css/lancesce.txt.gz
+Sitemap: https://lancesce.github.io/includes/lancesce.txt.gz
+Sitemap: https://lancesce.github.io/item/lancesce.txt.gz
+Sitemap: https://lancesce.github.io/src/lancesce.txt.gz
